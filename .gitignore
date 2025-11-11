@@ -1,0 +1,12 @@
+# Pastas geradas pelo Unity
+Library/
+Logs/
+Temp/
+UserSettings/
+
+# Pasta de configuração do editor
+.vscode/
+
+# Pastas de Build (quando você gerar o jogo)
+Build/
+Builds/
